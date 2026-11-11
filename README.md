@@ -14,7 +14,7 @@ A web-based restaurant reservation project focused on visual table selection and
 
 
 <p align="center">
-  <img src="screenshots/reser2.jpg" alt="Interactive restaurant floor plan2" width="90%">
+  <img src="screenshots/reser2.png" alt="Interactive restaurant floor plan2" width="90%">
 </p>
 
 ## Highlights
